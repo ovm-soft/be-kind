@@ -1,4 +1,4 @@
 ---
-title: BE KIND app site
+title: BE KIND app
 ---
 
