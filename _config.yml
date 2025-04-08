@@ -1,3 +1,7 @@
 title: BE KIND app
 author: OVM SOFT
 theme: minima
+
+site:
+  description: Kindness
+  
