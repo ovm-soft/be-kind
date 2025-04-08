@@ -1,7 +1,7 @@
 // https://talk.jekyllrb.com/t/how-to-add-a-logo-to-minima-theme/4120/2
 // https://github.com/jekyll/minima/tree/v2.5.1#Customization
 .site-title::before {
- 	content: url("/icon_umbrella_512.png");
+ 	content: url("/assets/icon_umbrella_512.png");
  	display: inline-block;
  	position: relative;
  	width: 64px;
