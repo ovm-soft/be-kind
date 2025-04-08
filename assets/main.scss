@@ -6,10 +6,16 @@
 @import "minima";
 
 .site-title::before {
- 	content: url("/be-kind/assets/icon_umbrella_512.png");
- 	display: inline-block;
- 	position: relative;
- 	width: 32px;
-  height: 32px;
- 	top: 5px;
+content: "";
+    display: inline-block;
+    background-image: url("/be-kind/assets/icon_umbrella_32.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    position: relative;
+    width: 32px;
+    height: 32px;
+    top : 5px;
+    right: 5px;
  }
