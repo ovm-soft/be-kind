@@ -1,0 +1,7 @@
+.site-title::before {
+ 	content: url("/icon_umbrella.png");
+ 	display: inline-block;
+ 	position: relative;
+ 	width: 64px;
+ 	top: 5px;
+ }
