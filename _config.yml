@@ -3,9 +3,8 @@ author: OVM SOFT
 theme: minima
 description: Kindness is a type of behavior marked by acts of generosity, consideration, or concern for others, without expecting praise or reward in return
 
-remote_theme: jekyll/minima@latest
+remote_theme: jekyll/minima@2.5.2
 
-minima:
-  nav-bars:
+header_pages:
     - issues.md
     - about.md
