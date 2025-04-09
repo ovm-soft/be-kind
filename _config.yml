@@ -5,6 +5,6 @@ description: Kindness is a type of behavior marked by acts of generosity, consid
 
 minima:
   nav_pages:
-    - /be-kind/about.md
-    - /be-kind/issues.md
+    - /about.md
+    - /issues.md
   
