@@ -1,1 +1,5 @@
-title: ISSUES
+---
+layout: page
+title: Issues
+permalink: /issues/
+---
