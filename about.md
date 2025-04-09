@@ -1,1 +1,5 @@
-title: ABOUT
+---
+layout: page
+title: About
+permalink: /about/
+---
