@@ -2,3 +2,10 @@ title: BE KIND app
 author: OVM SOFT
 theme: minima
 description: Kindness is a type of behavior marked by acts of generosity, consideration, or concern for others, without expecting praise or reward in return
+
+remote_theme: jekyll/minima@latest
+
+minima:
+  nav-bars:
+    - issues.md
+    - about.md
