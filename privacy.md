@@ -30,3 +30,30 @@ Nasza aplikacja nie gromadzi, nie przechowuje ani nie udostępnia żadnych danyc
 W DARMOWEJ wersji naszej aplikacji wyświetlane są również reklamy. Reklamy te mogą być dostarczane przez usługi zewnętrzne (takie jak Google AdMob), które mogą wykorzystywać ograniczone dane (np. typ urządzenia lub identyfikator reklamowy), aby wyświetlać trafne reklamy. Nie mamy dostępu do tych danych ani nie sprawujemy nad nimi kontroli.
 
 Nie zbieramy ani nie przesyłamy żadnych danych osobowych z Twojego urządzenia.
+
+# Française
+L’application Be KIND respecte votre vie privée.
+
+Notre application ne collecte, ne stocke ni ne partage aucune information personnelle. La seule autorisation que nous demandons est l'envoi de notifications, utilisées uniquement pour vous fournir des rappels utiles.
+
+Nous affichons également des publicités dans la version GRATUITE de notre application. Ces publicités peuvent être fournies par des services tiers (tels que Google AdMob), qui peuvent utiliser des données limitées (comme le type d'appareil ou l'identifiant publicitaire) pour afficher des annonces pertinentes. Nous n'avons pas accès à ces données et ne les contrôlons pas.
+
+Aucune donnée personnelle n'est collectée ni transmise depuis votre appareil par nous.
+
+# Deutsche
+Die Be KIND App respektiert Ihre Privatsphäre.
+
+Unsere App sammelt, speichert oder teilt keine persönlichen Informationen. Die einzige Berechtigung, die wir anfordern, ist das Senden von Benachrichtigungen, die ausschließlich dazu dienen, Ihnen hilfreiche Erinnerungen bereitzustellen.
+
+In der KOSTENLOSEN Version unserer App zeigen wir auch Werbung an. Diese Anzeigen können von Drittanbietern (wie Google AdMob) bereitgestellt werden, die möglicherweise begrenzte Daten (wie Gerätetyp oder Werbe-ID) verwenden, um relevante Werbung anzuzeigen. Wir haben keinen Zugriff auf diese Daten und kontrollieren sie nicht.
+
+Es werden von uns keine personenbezogenen Daten von Ihrem Gerät gesammelt oder übertragen.
+
+# Русский
+Приложение Be KIND уважает вашу конфиденциальность.
+
+Наше приложение не собирает, не хранит и не передаёт личную информацию. Единственное разрешение, которое мы запрашиваем, — это отправка уведомлений, используемых исключительно для полезных напоминаний.
+
+В БЕСПЛАТНОЙ версии нашего приложения также отображается реклама. Эти объявления могут предоставляться сторонними сервисами (такими как Google AdMob), которые могут использовать ограниченные данные (например, тип устройства или рекламный идентификатор) для показа релевантной рекламы. Мы не получаем доступ к этим данным и не контролируем их.
+
+Мы не собираем и не передаём с вашего устройства никакие персональные данные.
