@@ -13,7 +13,7 @@ We also display advertisements in our FREE version of the app. These ads may be 
 
 No personal data is collected or transmitted off your device by us.
 
-# Ukrainian
+# Українська
 Застосунок Be KIND поважає вашу конфіденційність.
 
 Наш застосунок не збирає, не зберігає та не передає жодної особистої інформації. Єдиний дозвіл, який ми запитуємо, — це надсилання сповіщень, які використовуються виключно для надання корисних нагадувань.
@@ -21,3 +21,12 @@ No personal data is collected or transmitted off your device by us.
 У безкоштовній версії нашого застосунку також відображаються рекламні оголошення. Ці оголошення можуть надаватися сторонніми службами (такими як Google AdMob), які можуть використовувати обмежені дані (наприклад, тип пристрою або рекламний ідентифікатор) для показу релевантної реклами. Ми не маємо доступу до цих даних і не контролюємо їх.
 
 Жодні персональні дані не збираються та не передаються з вашого пристрою нами.
+
+# Polski
+Aplikacja Be KIND szanuje Twoją prywatność.
+
+Nasza aplikacja nie gromadzi, nie przechowuje ani nie udostępnia żadnych danych osobowych. Jedyne uprawnienie, o które prosimy, to możliwość wysyłania powiadomień, które służą wyłącznie do przekazywania przydatnych przypomnień.
+
+W DARMOWEJ wersji naszej aplikacji wyświetlane są również reklamy. Reklamy te mogą być dostarczane przez usługi zewnętrzne (takie jak Google AdMob), które mogą wykorzystywać ograniczone dane (np. typ urządzenia lub identyfikator reklamowy), aby wyświetlać trafne reklamy. Nie mamy dostępu do tych danych ani nie sprawujemy nad nimi kontroli.
+
+Nie zbieramy ani nie przesyłamy żadnych danych osobowych z Twojego urządzenia.
