@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+permalink: /privacy/
+---
+
 # English
 Be KIND app respects your privacy.
 
