@@ -162,7 +162,7 @@ Zaznacz, jak bardzo byłeś życzliwy dziś, i obserwuj swój postęp w czasie.
 
 Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ścieżce życzliwości — bez presji i oceniania.
 
-### darmowa
+### DARMOWA
 
 #### iOS
 
@@ -189,7 +189,7 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
   <img src="/be-kind/screenshots/pl/free/05.png" width="100" />
 </a>
 
-### płatna
+### PŁATNA
 
 #### iOS
 
@@ -233,7 +233,7 @@ Indique ton niveau de gentillesse aujourd'hui et observe tes progrès au fil du 
 
 Comprend des rappels doux et occasionnels pour rester sur la voie de la gentillesse — sans pression ni jugement.
 
-### gratuite
+### GRATUITE
 
 #### iOS
 
@@ -260,7 +260,7 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
   <img src="/be-kind/screenshots/fr/free/05.png" width="100" />
 </a>
 
-### payante
+### PAYANTE
 
 #### iOS
 
@@ -304,7 +304,7 @@ Gib an, wie freundlich du dich heute gefühlt hast, und verfolge deinen Fortschr
 
 Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freundlichkeit zu bleiben — ohne Druck oder Bewertung.
 
-### kostenlose
+### KOSTENLOSE
 
 #### iOS
 
@@ -331,7 +331,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
   <img src="/be-kind/screenshots/de/free/05.png" width="100" />
 </a>
 
-### kostenpflichtige
+### KOSTENPFLICHTIGE
 
 #### iOS
 
@@ -375,7 +375,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 Включает ненавязчивые периодические напоминания, которые помогают оставаться на пути доброты — без давления или осуждения.
 
-### бесплатная
+### БЕСПЛАТНАЯ
 
 #### iOS
 
@@ -402,7 +402,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
   <img src="/be-kind/screenshots/ru/free/05.png" width="100" />
 </a>
 
-### платная
+### ПЛАТНАЯ
 
 #### iOS
 
