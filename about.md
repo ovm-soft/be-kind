@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+# [FREE vs PAID](free-vs-paid.md)
+
 # English
 A simple tool to stay mindful about kindness in daily life.
 
