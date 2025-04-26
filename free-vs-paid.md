@@ -4,6 +4,13 @@ title: FREE vs PAID
 permalink: /free-vs-paid/
 ---
 
+- [English](#english)
+- [Українська](#українська)
+- [Polski](#polski)
+- [Française](#française)
+- [Deutsche](#deutsche)
+- [Русский](#русский)
+
 # English
 
 <a href="comparison-en.png">
