@@ -65,7 +65,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 Містить ненав'язливі періодичні нагадування, які допомагають залишатися на шляху доброти — без тиску чи осуду.
 
-## FREE
+## БЕЗКОШТОВНА
 
 <a href="/be-kind/screenshots/uk/free/01.png">
   <img src="/be-kind/screenshots/uk/free/01.png" width="100" />
@@ -83,7 +83,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
   <img src="/be-kind/screenshots/uk/free/05.png" width="100" />
 </a>
 
-## PAID
+## ПЛАТНА
 
 <a href="/be-kind/screenshots/uk/paid/01.png">
   <img src="/be-kind/screenshots/uk/paid/01.png" width="100" />
@@ -117,7 +117,7 @@ Zaznacz, jak bardzo byłeś życzliwy dziś, i obserwuj swój postęp w czasie.
 
 Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ścieżce życzliwości — bez presji i oceniania.
 
-## FREE
+## DARMOWA
 
 <a href="/be-kind/screenshots/pl/free/01.png">
   <img src="/be-kind/screenshots/pl/free/01.png" width="100" />
@@ -135,7 +135,7 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
   <img src="/be-kind/screenshots/pl/free/05.png" width="100" />
 </a>
 
-## PAID
+## PŁATNA
 
 <a href="/be-kind/screenshots/pl/paid/01.png">
   <img src="/be-kind/screenshots/pl/paid/01.png" width="100" />
@@ -169,7 +169,7 @@ Indique ton niveau de gentillesse aujourd'hui et observe tes progrès au fil du 
 
 Comprend des rappels doux et occasionnels pour rester sur la voie de la gentillesse — sans pression ni jugement.
 
-## FREE
+## GRATUITE
 
 <a href="/be-kind/screenshots/fr/free/01.png">
   <img src="/be-kind/screenshots/fr/free/01.png" width="100" />
@@ -187,7 +187,7 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
   <img src="/be-kind/screenshots/fr/free/05.png" width="100" />
 </a>
 
-## PAID
+## PAYANTE
 
 <a href="/be-kind/screenshots/fr/paid/01.png">
   <img src="/be-kind/screenshots/fr/paid/01.png" width="100" />
@@ -221,7 +221,7 @@ Gib an, wie freundlich du dich heute gefühlt hast, und verfolge deinen Fortschr
 
 Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freundlichkeit zu bleiben — ohne Druck oder Bewertung.
 
-## FREE
+## KOSTENLOSE
 
 <a href="/be-kind/screenshots/de/free/01.png">
   <img src="/be-kind/screenshots/de/free/01.png" width="100" />
@@ -239,7 +239,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
   <img src="/be-kind/screenshots/de/free/05.png" width="100" />
 </a>
 
-## PAID
+## KOSTENPFLICHTIGE
 
 <a href="/be-kind/screenshots/de/paid/01.png">
   <img src="/be-kind/screenshots/de/paid/01.png" width="100" />
@@ -273,7 +273,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 Включает ненавязчивые периодические напоминания, которые помогают оставаться на пути доброты — без давления или осуждения.
 
-## FREE
+## БЕСПЛАТНАЯ
 
 <a href="/be-kind/screenshots/ru/free/01.png">
   <img src="/be-kind/screenshots/ru/free/01.png" width="100" />
@@ -291,7 +291,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
   <img src="/be-kind/screenshots/ru/free/05.png" width="100" />
 </a>
 
-## PAID
+## ПЛАТНАЯ
 
 <a href="/be-kind/screenshots/ru/paid/01.png">
   <img src="/be-kind/screenshots/ru/paid/01.png" width="100" />
