@@ -15,20 +15,20 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ## FREE
 
-<a href="/bekind/screenshots/en/free/01.png">
-  <img src="/bekind/screenshots/en/free/01.png" width="200" />
+<a href="/be-kind/screenshots/en/free/01.png">
+  <img src="/be-kind/screenshots/en/free/01.png" width="200" />
 </a>
-<a href="/bekind/screenshots/en/free/02.png">
-  <img src="/bekind/screenshots/en/free/02.png" width="200" />
+<a href="/be-kind/screenshots/en/free/02.png">
+  <img src="/be-kind/screenshots/en/free/02.png" width="200" />
 </a>
 
 ## PAID
 
-<a href="/bekind/screenshots/en/paid/01.png">
-  <img src="/bekind/screenshots/en/paid/01.png" width="200" />
+<a href="/be-kind/screenshots/en/paid/01.png">
+  <img src="/be-kind/screenshots/en/paid/01.png" width="200" />
 </a>
-<a href="/bekind/screenshots/en/paid/02.png">
-  <img src="/bekind/screenshots/en/paid/02.png" width="200" />
+<a href="/be-kind/screenshots/en/paid/02.png">
+  <img src="/be-kind/screenshots/en/paid/02.png" width="200" />
 </a>
 
 # Українська
