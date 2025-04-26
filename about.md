@@ -86,6 +86,9 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### iOS
 
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg" width="100"/> (СКОРО)
+
+
 ### Android
 
 <a href="/be-kind/screenshots/uk/free/01.png">
