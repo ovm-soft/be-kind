@@ -13,6 +13,24 @@ Set how kind you felt today and view your progress over time.
 
 Includes soft, occasional reminders to help you stay on track—without pressure or judgment.
 
+## FREE
+
+<a href="/bekind/screenshots/en/free/01.png">
+  <img src="/bekind/screenshots/en/free/01.png" width="200" />
+</a>
+<a href="/bekind/screenshots/en/free/02.png">
+  <img src="/bekind/screenshots/en/free/02.png" width="200" />
+</a>
+
+## PAID
+
+<a href="/bekind/screenshots/en/paid/01.png">
+  <img src="/bekind/screenshots/en/paid/01.png" width="200" />
+</a>
+<a href="/bekind/screenshots/en/paid/02.png">
+  <img src="/bekind/screenshots/en/paid/02.png" width="200" />
+</a>
+
 # Українська
 Простий інструмент, щоб залишатися свідомим у щоденній доброті.
 
