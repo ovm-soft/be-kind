@@ -25,14 +25,14 @@ Proste narzędzie, które pomaga zachować uważność na życzliwość w codzie
 
 Zaznacz, jak bardzo byłeś życzliwy dziś, i obserwuj swój postęp w czasie.
 
-Zawiera nienachalne, okazjonalne przypomnienia, które pomagają pozostać na ścieżce życzliwości — bez presji i osądzania.
+Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ścieżce życzliwości — bez presji i oceniania.
 
 # Française
-Un outil simple pour rester attentif à la gentillesse au quotidien.
+Un outil simple pour rester attentif à la gentillesse dans la vie quotidienne.
 
-Indiquez à quel point vous vous êtes senti bienveillant aujourd'hui et suivez vos progrès au fil du temps.
+Indique ton niveau de gentillesse aujourd'hui et observe tes progrès au fil du temps.
 
-Inclut des rappels occasionnels et discrets pour aider à rester sur le chemin de la bienveillance — sans pression ni jugement.
+Comprend des rappels doux et occasionnels pour rester sur la voie de la gentillesse — sans pression ni jugement.
 
 # Deutsche
 Ein einfaches Tool, um Achtsamkeit für Freundlichkeit im Alltag zu bewahren.
@@ -47,4 +47,3 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 Отмечайте, насколько добрым вы были сегодня, и отслеживайте свой прогресс со временем.
 
 Включает ненавязчивые периодические напоминания, которые помогают оставаться на пути доброты — без давления или осуждения.
-
