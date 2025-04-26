@@ -11,37 +11,37 @@ permalink: /free-vs-paid/
 - [Deutsche](#deutsche)
 - [Русский](#русский)
 
-# English
+## English
 
 <a href="comparison-en.png">
   <img src="comparison-en.png" width="200" />
 </a>
 
-# Українська
+## Українська
 
 <a href="comparison-uk.png">
   <img src="comparison-uk.png" width="200" />
 </a>
 
-# Polski
+## Polski
 
 <a href="comparison-pl.png">
   <img src="comparison-pl.png" width="200" />
 </a>
 
-# Française
+## Française
 
 <a href="comparison-fr.png">
   <img src="comparison-fr.png" width="200" />
 </a>
 
-# Deutsche
+## Deutsche
 
 <a href="comparison-de.png">
   <img src="comparison-de.png" width="200" />
 </a>
 
-# Русский
+## Русский
 
 <a href="comparison-ru.png">
   <img src="comparison-ru.png" width="200" />
