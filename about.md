@@ -21,7 +21,7 @@ Set how kind you felt today and view your progress over time.
 
 Includes soft, occasional reminders to help you stay on track—without pressure or judgment.
 
-### free
+### FREE
 
 #### iOS
 
@@ -48,7 +48,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
   <img src="/be-kind/screenshots/en/free/05.png" width="100" />
 </a>
 
-### paid
+### PAID
 
 #### iOS
 
@@ -92,7 +92,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 Містить ненав'язливі періодичні нагадування, які допомагають залишатися на шляху доброти — без тиску чи осуду.
 
-### безкоштовна
+### БЕЗКОШТОВНА
 
 #### iOS
 
@@ -119,7 +119,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
   <img src="/be-kind/screenshots/uk/free/05.png" width="100" />
 </a>
 
-### платна
+### ПЛАТНА
 
 #### iOS
 
