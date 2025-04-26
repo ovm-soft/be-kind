@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# English
+## English
 Be KIND app respects your privacy.
 
 Our app does not collect, store, or share any personal information. The only permission we request is to send notifications, which are used solely to provide you with helpful reminders.
@@ -13,7 +13,7 @@ We also display advertisements in our FREE version of the app. These ads may be 
 
 No personal data is collected or transmitted off your device by us.
 
-# Українська
+## Українська
 Застосунок Be KIND поважає вашу конфіденційність.
 
 Наш застосунок не збирає, не зберігає та не передає жодної особистої інформації. Єдиний дозвіл, який ми запитуємо, — це надсилання сповіщень, які використовуються виключно для надання корисних нагадувань.
@@ -22,7 +22,7 @@ No personal data is collected or transmitted off your device by us.
 
 Жодні персональні дані не збираються та не передаються з вашого пристрою нами.
 
-# Polski
+## Polski
 Aplikacja Be KIND szanuje Twoją prywatność.
 
 Nasza aplikacja nie gromadzi, nie przechowuje ani nie udostępnia żadnych danych osobowych. Jedyne uprawnienie, o które prosimy, to możliwość wysyłania powiadomień, które służą wyłącznie do przekazywania przydatnych przypomnień.
@@ -31,7 +31,7 @@ W DARMOWEJ wersji naszej aplikacji wyświetlane są również reklamy. Reklamy t
 
 Nie zbieramy ani nie przesyłamy żadnych danych osobowych z Twojego urządzenia.
 
-# Française
+## Française
 L’application Be KIND respecte votre vie privée.
 
 Notre application ne collecte, ne stocke ni ne partage aucune information personnelle. La seule autorisation que nous demandons est l'envoi de notifications, utilisées uniquement pour vous fournir des rappels utiles.
@@ -40,7 +40,7 @@ Nous affichons également des publicités dans la version GRATUITE de notre appl
 
 Aucune donnée personnelle n'est collectée ni transmise depuis votre appareil par nous.
 
-# Deutsche
+## Deutsche
 Die Be KIND App respektiert Ihre Privatsphäre.
 
 Unsere App sammelt, speichert oder teilt keine persönlichen Informationen. Die einzige Berechtigung, die wir anfordern, ist das Senden von Benachrichtigungen, die ausschließlich dazu dienen, Ihnen hilfreiche Erinnerungen bereitzustellen.
@@ -49,7 +49,7 @@ In der KOSTENLOSEN Version unserer App zeigen wir auch Werbung an. Diese Anzeige
 
 Es werden von uns keine personenbezogenen Daten von Ihrem Gerät gesammelt oder übertragen.
 
-# Русский
+## Русский
 Приложение Be KIND уважает вашу конфиденциальность.
 
 Наше приложение не собирает, не хранит и не передаёт личную информацию. Единственное разрешение, которое мы запрашиваем, — это отправка уведомлений, используемых исключительно для полезных напоминаний.
