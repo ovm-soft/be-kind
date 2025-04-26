@@ -6,6 +6,13 @@ permalink: /about/
 
 # [FREE vs PAID](free-vs-paid.md)
 
+- [English](#english)
+- [Українська](#українська)
+- [Polski](#polski)
+- [Française](#française)
+- [Deutsche](#deutsche)
+- [Русский](#русский)
+
 # English
 
 A simple tool to stay mindful about kindness in daily life.
