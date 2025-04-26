@@ -5,19 +5,37 @@ permalink: /free-vs-paid/
 ---
 
 # English
-<img src="comparison-en.png"/>
+
+<a href="comparison-en.png">
+  <img src="comparison-en.png" width="300" />
+</a>
 
 # Українська
-<img src="comparison-uk.png"/>
+
+<a href="comparison-uk.png">
+  <img src="comparison-uk.png" width="300" />
+</a>
 
 # Polski
-<img src="comparison-pl.png"/>
+
+<a href="comparison-pl.png">
+  <img src="comparison-pl.png" width="300" />
+</a>
 
 # Française
-<img src="comparison-fr.png"/>
+
+<a href="comparison-fr.png">
+  <img src="comparison-fr.png" width="300" />
+</a>
 
 # Deutsche
-<img src="comparison-de.png"/>
+
+<a href="comparison-de.png">
+  <img src="comparison-de.png" width="300" />
+</a>
 
 # Русский
-<img src="comparison-ru.png"/>
+
+<a href="comparison-ru.png">
+  <img src="comparison-ru.png" width="300" />
+</a>
