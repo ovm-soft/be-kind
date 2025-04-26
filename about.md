@@ -25,7 +25,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (SOON)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (SOON)
 
 
 ### Android
@@ -52,7 +52,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### iOS
 
-<img style="padding-left: 10" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (SOON)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (SOON)
 
 
 ### Android
@@ -96,7 +96,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НЕЗАБАРОМ)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НЕЗАБАРОМ)
 
 
 ### Android
@@ -123,7 +123,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НЕЗАБАРОМ)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НЕЗАБАРОМ)
 
 ### Android
 
@@ -166,7 +166,7 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (WKRÓTCE)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (WKRÓTCE)
 
 
 ### Android
@@ -193,7 +193,7 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (WKRÓTCE)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (WKRÓTCE)
 
 
 ### Android
@@ -237,7 +237,7 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (BIENTÔT)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (BIENTÔT)
 
 
 ### Android
@@ -264,7 +264,7 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (BIENTÔT)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (BIENTÔT)
 
 
 ### Android
@@ -308,7 +308,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (BALD)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (BALD)
 
 
 ### Android
@@ -335,7 +335,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (BALD)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (BALD)
 
 
 ### Android
@@ -379,7 +379,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (СКОРО)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (СКОРО)
 
 
 ### Android
@@ -406,7 +406,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (СКОРО)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (СКОРО)
 
 
 ### Android
