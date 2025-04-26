@@ -30,7 +30,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-en.png"/> (SOON)
+<img src="/be-kind/assets/google-play-badge-en.png" width="120"/> (SOON)
 
 <a href="/be-kind/screenshots/en/free/01.png">
   <img src="/be-kind/screenshots/en/free/01.png" width="100" />
@@ -57,7 +57,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-en.png"/> (SOON)
+<img src="/be-kind/assets/google-play-badge-en.png" width="120"/> (SOON)
 
 <a href="/be-kind/screenshots/en/paid/01.png">
   <img src="/be-kind/screenshots/en/paid/01.png" width="100" />
@@ -101,7 +101,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-ua.png"/> (НЕЗАБАРОМ)
+<img src="/be-kind/assets/google-play-badge-ua.png" width="120"/> (НЕЗАБАРОМ)
 
 <a href="/be-kind/screenshots/uk/free/01.png">
   <img src="/be-kind/screenshots/uk/free/01.png" width="100" />
@@ -127,7 +127,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-ua.png"/> (НЕЗАБАРОМ)
+<img src="/be-kind/assets/google-play-badge-ua.png" width="120"/> (НЕЗАБАРОМ)
 
 <a href="/be-kind/screenshots/uk/paid/01.png">
   <img src="/be-kind/screenshots/uk/paid/01.png" width="100" />
@@ -171,7 +171,7 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-pl.png"/> (WKRÓTCE)
+<img src="/be-kind/assets/google-play-badge-pl.png" width="120"/> (WKRÓTCE)
 
 <a href="/be-kind/screenshots/pl/free/01.png">
   <img src="/be-kind/screenshots/pl/free/01.png" width="100" />
@@ -198,7 +198,7 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-pl.png"/> (WKRÓTCE)
+<img src="/be-kind/assets/google-play-badge-pl.png" width="120"/> (WKRÓTCE)
 
 <a href="/be-kind/screenshots/pl/paid/01.png">
   <img src="/be-kind/screenshots/pl/paid/01.png" width="100" />
@@ -242,7 +242,7 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-fr.png"/> (BIENTÔT)
+<img src="/be-kind/assets/google-play-badge-fr.png" width="120"/> (BIENTÔT)
 
 <a href="/be-kind/screenshots/fr/free/01.png">
   <img src="/be-kind/screenshots/fr/free/01.png" width="100" />
@@ -269,7 +269,7 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-fr.png"/> (BIENTÔT)
+<img src="/be-kind/assets/google-play-badge-fr.png" width="120"/> (BIENTÔT)
 
 <a href="/be-kind/screenshots/fr/paid/01.png">
   <img src="/be-kind/screenshots/fr/paid/01.png" width="100" />
@@ -313,7 +313,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-de.png"/> (BALD)
+<img src="/be-kind/assets/google-play-badge-de.png" width="120"/> (BALD)
 
 <a href="/be-kind/screenshots/de/free/01.png">
   <img src="/be-kind/screenshots/de/free/01.png" width="100" />
@@ -340,7 +340,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-de.png"/> (BALD)
+<img src="/be-kind/assets/google-play-badge-de.png" width="120"/> (BALD)
 
 <a href="/be-kind/screenshots/de/paid/01.png">
   <img src="/be-kind/screenshots/de/paid/01.png" width="100" />
@@ -384,7 +384,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-ru.png"/> (СКОРО)
+<img src="/be-kind/assets/google-play-badge-ru.png" width="120"/> (СКОРО)
 
 <a href="/be-kind/screenshots/ru/free/01.png">
   <img src="/be-kind/screenshots/ru/free/01.png" width="100" />
@@ -411,7 +411,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### Android
 
-<img src="/be-kind/assets/google-play-badge-ru.png"/> (СКОРО)
+<img src="/be-kind/assets/google-play-badge-ru.png" width="120"/> (СКОРО)
 
 <a href="/be-kind/screenshots/ru/paid/01.png">
   <img src="/be-kind/screenshots/ru/paid/01.png" width="100" />
