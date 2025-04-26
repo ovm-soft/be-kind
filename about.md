@@ -25,6 +25,9 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### iOS
 
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (SOON)
+
+
 ### Android
 
 <a href="/be-kind/screenshots/en/free/01.png">
@@ -46,6 +49,9 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 ## paid
 
 ### iOS
+
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (SOON)
+
 
 ### Android
 
@@ -86,7 +92,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg" width="100"/> (СКОРО)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НЕЗАБАРОМ)
 
 
 ### Android
@@ -110,6 +116,8 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 ## платна
 
 ### iOS
+
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НЕЗАБАРОМ)
 
 ### Android
 
@@ -150,6 +158,9 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 ### iOS
 
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (WKRÓTCE)
+
+
 ### Android
 
 <a href="/be-kind/screenshots/pl/free/01.png">
@@ -171,6 +182,9 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 ## płatna
 
 ### iOS
+
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (WKRÓTCE)
+
 
 ### Android
 
@@ -211,6 +225,9 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 ### iOS
 
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (BIENTÔT)
+
+
 ### Android
 
 <a href="/be-kind/screenshots/fr/free/01.png">
@@ -232,6 +249,9 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 ## payante
 
 ### iOS
+
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (BIENTÔT)
+
 
 ### Android
 
@@ -272,6 +292,9 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### iOS
 
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (BALD)
+
+
 ### Android
 
 <a href="/be-kind/screenshots/de/free/01.png">
@@ -293,6 +316,9 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 ## kostenpflichtige
 
 ### iOS
+
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (BALD)
+
 
 ### Android
 
@@ -333,6 +359,9 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ### iOS
 
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (СКОРО)
+
+
 ### Android
 
 <a href="/be-kind/screenshots/ru/free/01.png">
@@ -354,6 +383,9 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 ## платная
 
 ### iOS
+
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (СКОРО)
+
 
 ### Android
 
