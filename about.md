@@ -156,7 +156,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 # Polski
 
-Proste narzędzie, które pomaga zachować uważność na życzliwość w codziennym życiu.
+Proste narzędzie pomagające zachować uważność na życzliwość w codziennym życiu.
 
 Zaznacz, jak bardzo byłeś życzliwy dziś, i obserwuj swój postęp w czasie.
 
