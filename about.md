@@ -23,6 +23,10 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ## free
 
+### iOS
+
+### Android
+
 <a href="/be-kind/screenshots/en/free/01.png">
   <img src="/be-kind/screenshots/en/free/01.png" width="100" />
 </a>
@@ -40,6 +44,10 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 </a>
 
 ## paid
+
+### iOS
+
+### Android
 
 <a href="/be-kind/screenshots/en/paid/01.png">
   <img src="/be-kind/screenshots/en/paid/01.png" width="100" />
@@ -76,6 +84,10 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ## безкоштовна
 
+### iOS
+
+### Android
+
 <a href="/be-kind/screenshots/uk/free/01.png">
   <img src="/be-kind/screenshots/uk/free/01.png" width="100" />
 </a>
@@ -93,6 +105,10 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 </a>
 
 ## платна
+
+### iOS
+
+### Android
 
 <a href="/be-kind/screenshots/uk/paid/01.png">
   <img src="/be-kind/screenshots/uk/paid/01.png" width="100" />
@@ -129,6 +145,10 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 ## darmowa
 
+### iOS
+
+### Android
+
 <a href="/be-kind/screenshots/pl/free/01.png">
   <img src="/be-kind/screenshots/pl/free/01.png" width="100" />
 </a>
@@ -146,6 +166,10 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 </a>
 
 ## płatna
+
+### iOS
+
+### Android
 
 <a href="/be-kind/screenshots/pl/paid/01.png">
   <img src="/be-kind/screenshots/pl/paid/01.png" width="100" />
@@ -182,6 +206,10 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 ## gratuite
 
+### iOS
+
+### Android
+
 <a href="/be-kind/screenshots/fr/free/01.png">
   <img src="/be-kind/screenshots/fr/free/01.png" width="100" />
 </a>
@@ -199,6 +227,10 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 </a>
 
 ## payante
+
+### iOS
+
+### Android
 
 <a href="/be-kind/screenshots/fr/paid/01.png">
   <img src="/be-kind/screenshots/fr/paid/01.png" width="100" />
@@ -235,6 +267,10 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ## kostenlose
 
+### iOS
+
+### Android
+
 <a href="/be-kind/screenshots/de/free/01.png">
   <img src="/be-kind/screenshots/de/free/01.png" width="100" />
 </a>
@@ -252,6 +288,10 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 </a>
 
 ## kostenpflichtige
+
+### iOS
+
+### Android
 
 <a href="/be-kind/screenshots/de/paid/01.png">
   <img src="/be-kind/screenshots/de/paid/01.png" width="100" />
@@ -288,6 +328,10 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 ## бесплатная
 
+### iOS
+
+### Android
+
 <a href="/be-kind/screenshots/ru/free/01.png">
   <img src="/be-kind/screenshots/ru/free/01.png" width="100" />
 </a>
@@ -305,6 +349,10 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 </a>
 
 ## платная
+
+### iOS
+
+### Android
 
 <a href="/be-kind/screenshots/ru/paid/01.png">
   <img src="/be-kind/screenshots/ru/paid/01.png" width="100" />
