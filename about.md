@@ -563,8 +563,8 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 <a href="/be-kind/screenshots/de/paid/ios/06.jpeg">
   <img src="/be-kind/screenshots/de/paid/ios/06.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/paid/ios/07.jpeg">
-  <img src="/be-kind/screenshots/de/paid/ios/07.jpeg" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/07.png">
+  <img src="/be-kind/screenshots/de/paid/ios/07.png" width="100" />
 </a>
 <a href="/be-kind/screenshots/de/paid/ios/08.jpeg">
   <img src="/be-kind/screenshots/de/paid/ios/08.jpeg" width="100" />
