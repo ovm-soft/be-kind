@@ -499,23 +499,23 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (BALD)
 
-<a href="/be-kind/screenshots/de/free/ios/01.png">
-  <img src="/be-kind/screenshots/de/free/ios/01.png" width="100" />
+<a href="/be-kind/screenshots/de/free/ios/01.jpeg">
+  <img src="/be-kind/screenshots/de/free/ios/01.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/free/ios/02.png">
-  <img src="/be-kind/screenshots/de/free/ios/02.png" width="100" />
+<a href="/be-kind/screenshots/de/free/ios/02.jpeg">
+  <img src="/be-kind/screenshots/de/free/ios/02.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/free/ios/03.png">
-  <img src="/be-kind/screenshots/de/free/ios/03.png" width="100" />
+<a href="/be-kind/screenshots/de/free/ios/03.jpeg">
+  <img src="/be-kind/screenshots/de/free/ios/03.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/free/ios/04.png">
-  <img src="/be-kind/screenshots/de/free/ios/04.png" width="100" />
+<a href="/be-kind/screenshots/de/free/ios/04.jpeg">
+  <img src="/be-kind/screenshots/de/free/ios/04.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/free/ios/05.png">
-  <img src="/be-kind/screenshots/de/free/ios/05.png" width="100" />
+<a href="/be-kind/screenshots/de/free/ios/05.jpeg">
+  <img src="/be-kind/screenshots/de/free/ios/05.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/free/ios/06.png">
-  <img src="/be-kind/screenshots/de/free/ios/06.png" width="100" />
+<a href="/be-kind/screenshots/de/free/ios/06.jpeg">
+  <img src="/be-kind/screenshots/de/free/ios/06.jpeg" width="100" />
 </a>
 
 
@@ -545,32 +545,32 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (BALD)
 
-<a href="/be-kind/screenshots/de/paid/ios/01.png">
-  <img src="/be-kind/screenshots/de/paid/ios/01.png" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/01.jpeg">
+  <img src="/be-kind/screenshots/de/paid/ios/01.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/paid/ios/02.png">
-  <img src="/be-kind/screenshots/de/paid/ios/02.png" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/02.jpeg">
+  <img src="/be-kind/screenshots/de/paid/ios/02.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/paid/ios/03.png">
-  <img src="/be-kind/screenshots/de/paid/ios/03.png" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/03.jpeg">
+  <img src="/be-kind/screenshots/de/paid/ios/03.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/paid/ios/04.png">
-  <img src="/be-kind/screenshots/de/paid/ios/04.png" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/04.jpeg">
+  <img src="/be-kind/screenshots/de/paid/ios/04.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/paid/ios/05.png">
-  <img src="/be-kind/screenshots/de/paid/ios/05.png" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/05.jpeg">
+  <img src="/be-kind/screenshots/de/paid/ios/05.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/paid/ios/06.png">
-  <img src="/be-kind/screenshots/de/paid/ios/06.png" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/06.jpeg">
+  <img src="/be-kind/screenshots/de/paid/ios/06.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/paid/ios/07.png">
-  <img src="/be-kind/screenshots/de/paid/ios/07.png" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/07.jpeg">
+  <img src="/be-kind/screenshots/de/paid/ios/07.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/paid/ios/08.png">
-  <img src="/be-kind/screenshots/de/paid/ios/08.png" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/08.jpeg">
+  <img src="/be-kind/screenshots/de/paid/ios/08.jpeg" width="100" />
 </a>
-<a href="/be-kind/screenshots/de/paid/ios/09.png">
-  <img src="/be-kind/screenshots/de/paid/ios/09.png" width="100" />
+<a href="/be-kind/screenshots/de/paid/ios/09.jpeg">
+  <img src="/be-kind/screenshots/de/paid/ios/09.jpeg" width="100" />
 </a>
 
 
