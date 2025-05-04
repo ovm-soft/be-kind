@@ -13,6 +13,14 @@ We also display advertisements in our FREE version of the app. These ads may be 
 
 No personal data is collected or transmitted off your device by us.
 
+### Use of RevenueCat
+
+The paid version of our app uses RevenueCat to manage in-app subscriptions and purchases. RevenueCat acts as a service provider that securely handles transaction data and communicates with the app stores (such as Google Play, Apple App Store) to determine subscription status.
+
+RevenueCat does not collect any personally identifiable information from users. Subscription data is used solely to verify access rights and ensure the correct functionality of the app.
+
+For more details, you can view [RevenueCat’s privacy policy](https://www.revenuecat.com/privacy/).
+
 ## Українська
 Застосунок Be KIND поважає вашу конфіденційність.
 
@@ -21,6 +29,14 @@ No personal data is collected or transmitted off your device by us.
 У безкоштовній версії нашого застосунку також відображаються рекламні оголошення. Ці оголошення можуть надаватися сторонніми службами (такими як Google AdMob), які можуть використовувати обмежені дані (наприклад, тип пристрою або рекламний ідентифікатор) для показу релевантної реклами. Ми не маємо доступу до цих даних і не контролюємо їх.
 
 Жодні персональні дані не збираються та не передаються з вашого пристрою нами.
+
+### Використання RevenueCat
+
+Платна версія нашого додатку використовує RevenueCat для керування підписками та покупками в додатку. RevenueCat виступає постачальником послуг, який безпечно обробляє дані транзакцій і взаємодіє з магазинами додатків (такими як Google Play, Apple App Store) для перевірки статусу підписки.
+
+RevenueCat не збирає особисту інформацію користувачів. Дані підписки використовуються виключно для перевірки прав доступу та забезпечення коректної роботи додатку.
+
+Більше інформації: [Політика конфіденційності RevenueCat](https://www.revenuecat.com/privacy/)
 
 ## Polski
 Aplikacja Be KIND szanuje Twoją prywatność.
@@ -31,6 +47,14 @@ W DARMOWEJ wersji naszej aplikacji wyświetlane są również reklamy. Reklamy t
 
 Nie zbieramy ani nie przesyłamy żadnych danych osobowych z Twojego urządzenia.
 
+### Korzystanie z RevenueCat
+
+Płatna wersja naszej aplikacji korzysta z RevenueCat do zarządzania subskrypcjami i zakupami w aplikacji. RevenueCat działa jako dostawca usług, który bezpiecznie przetwarza dane transakcyjne i komunikuje się ze sklepami z aplikacjami (np. Google Play, Apple App Store), aby sprawdzić status subskrypcji.
+
+RevenueCat nie gromadzi danych osobowych użytkowników. Dane subskrypcyjne są wykorzystywane wyłącznie do weryfikacji uprawnień dostępu i zapewnienia prawidłowego działania aplikacji.
+
+Więcej informacji: [Polityka prywatności RevenueCat](https://www.revenuecat.com/privacy/)
+
 ## Française
 L’application Be KIND respecte votre vie privée.
 
@@ -39,6 +63,14 @@ Notre application ne collecte, ne stocke ni ne partage aucune information person
 Nous affichons également des publicités dans la version GRATUITE de notre application. Ces publicités peuvent être fournies par des services tiers (tels que Google AdMob), qui peuvent utiliser des données limitées (comme le type d'appareil ou l'identifiant publicitaire) pour afficher des annonces pertinentes. Nous n'avons pas accès à ces données et ne les contrôlons pas.
 
 Aucune donnée personnelle n'est collectée ni transmise depuis votre appareil par nous.
+
+### Utilisation de RevenueCat
+
+La version payante de notre application utilise RevenueCat pour gérer les abonnements et les achats intégrés. RevenueCat agit en tant que prestataire de services sécurisé, traitant les données de transaction et communiquant avec les magasins d'applications (comme Google Play, Apple App Store) pour vérifier le statut des abonnements.
+
+RevenueCat ne collecte aucune information personnelle identifiable sur les utilisateurs. Les données d'abonnement sont utilisées uniquement pour vérifier les droits d'accès et garantir le bon fonctionnement de l'application.
+
+Pour plus d’informations veuillez consulter [La politique de confidentialité de RevenueCat](https://www.revenuecat.com/privacy/)
 
 ## Deutsche
 Die Be KIND App respektiert Ihre Privatsphäre.
@@ -49,6 +81,14 @@ In der KOSTENLOSEN Version unserer App zeigen wir auch Werbung an. Diese Anzeige
 
 Es werden von uns keine personenbezogenen Daten von Ihrem Gerät gesammelt oder übertragen.
 
+### Verwendung von RevenueCat
+
+Die kostenpflichtige Version unserer App verwendet RevenueCat zur Verwaltung von Abonnements und In-App-Käufen. RevenueCat fungiert als Dienstleister, der Transaktionsdaten sicher verarbeitet und mit App-Stores (z. B. Google Play, Apple App Store) kommuniziert, um den Abonnementstatus zu überprüfen.
+
+RevenueCat erfasst keine personenbezogenen Daten von Nutzern. Abonnementdaten werden ausschließlich verwendet, um Zugriffsrechte zu prüfen und die ordnungsgemäße Funktion der App sicherzustellen.
+
+Weitere Informationen finden Sie in [der Datenschutzrichtlinie von RevenueCat](https://www.revenuecat.com/privacy/)
+
 ## Русский
 Приложение Be KIND уважает вашу конфиденциальность.
 
@@ -57,3 +97,11 @@ Es werden von uns keine personenbezogenen Daten von Ihrem Gerät gesammelt oder 
 В БЕСПЛАТНОЙ версии нашего приложения также отображается реклама. Эти объявления могут предоставляться сторонними сервисами (такими как Google AdMob), которые могут использовать ограниченные данные (например, тип устройства или рекламный идентификатор) для показа релевантной рекламы. Мы не получаем доступ к этим данным и не контролируем их.
 
 Мы не собираем и не передаём с вашего устройства никакие персональные данные.
+
+### Использование RevenueCat
+
+Платная версия нашего приложения использует RevenueCat для управления подписками и покупками внутри приложения. RevenueCat действует как поставщик услуг, который безопасно обрабатывает данные транзакций и взаимодействует с магазинами приложений (например, Google Play, Apple App Store) для определения статуса подписки.
+
+RevenueCat не собирает персональные данные пользователей. Данные о подписке используются исключительно для проверки прав доступа и обеспечения корректной работы приложения.
+
+Подробнее: [Политика конфиденциальности RevenueCat](https://www.revenuecat.com/privacy/)
