@@ -49,7 +49,9 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 #### Android
 
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.ovm.bekind.free"/>
 <img src="/be-kind/assets/google-play-badge-en.png" width="140"/> (SOON)
+</a>
 
 <a href="/be-kind/screenshots/en/free/01.png">
   <img src="/be-kind/screenshots/en/free/01.png" width="100" />
