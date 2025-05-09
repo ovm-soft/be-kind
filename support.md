@@ -16,9 +16,7 @@ permalink: /support/
 
 <p><strong>Email:</strong> <a href="mailto:com.ovm.soft@gmail.com">com.ovm.soft@gmail.com</a></p>
 <p><strong>Address:</strong><br>
-Na Ostatnim Groszu 104/3<br>
-54-207 Wrocław<br>
-Poland</p>
+<img src="/be-kind/assets/a-s.png" width="100" />
 
 ## <a name="ukrainian"></a>Українська
 
