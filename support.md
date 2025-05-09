@@ -14,46 +14,42 @@ permalink: /support/
 
 ## <a name="english"></a>English
 
-**Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)  
+**Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 **Address:**
+
 <img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="ukrainian"></a>Українська
 
-<p><strong>Email:</strong> <a href="mailto:com.ovm.soft@gmail.com">com.ovm.soft@gmail.com</a></p>
-<p><strong>Адреса:</strong><br>
-Na Ostatnim Groszu 104/3<br>
-54-207 Wrocław<br>
-Poland</p>
+**Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
+**Адреса:**
+
+<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="polish"></a>Polski
 
-<p><strong>Email:</strong> <a href="mailto:com.ovm.soft@gmail.com">com.ovm.soft@gmail.com</a></p>
-<p><strong>Adres:</strong><br>
-Na Ostatnim Groszu 104/3<br>
-54-207 Wrocław<br>
-Poland</p>
+**Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
+**Adres:**
+
+<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="french"></a>Française
 
-<p><strong>Email:</strong> <a href="mailto:com.ovm.soft@gmail.com">com.ovm.soft@gmail.com</a></p>
-<p><strong>Adresse:</strong><br>
-Na Ostatnim Groszu 104/3<br>
-54-207 Wrocław<br>
-Poland</p>
+**Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
+**Adresse:**
+
+<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="german"></a>Deutsche
 
-<p><strong>Email:</strong> <a href="mailto:com.ovm.soft@gmail.com">com.ovm.soft@gmail.com</a></p>
-<p><strong>Adresse:</strong><br>
-Na Ostatnim Groszu 104/3<br>
-54-207 Wrocław<br>
-Poland</p>
+**Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
+**Adresse:**
+
+<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="russian"></a>Русский
 
-<p><strong>Email:</strong> <a href="mailto:com.ovm.soft@gmail.com">com.ovm.soft@gmail.com</a></p>
-<p><strong>Адрес:</strong><br>
-Na Ostatnim Groszu 104/3<br>
-54-207 Wrocław<br>
-Poland</p>
+**Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
+**Адрес:**
+
+<img src="/be-kind/assets/a-s.png" width="170" />
