@@ -5,13 +5,13 @@ permalink: /privacy/
 ---
 
 - [English](#english)
-- [Українська](#українська)
-- [Polski](#polski)
-- [Française](#française)
-- [Deutsche](#deutsche)
-- [Русский](#русский)
+- [Українська](#ukrainian)
+- [Polski](#polish)
+- [Française](#french)
+- [Deutsche](#german)
+- [Русский](#russian)
 
-## English
+## <a name="english"></a>English
 Stay KIND app respects your privacy.
 
 Our app does not collect, store, or share any personal information. The only permission we request is to send notifications, which are used solely to provide you with helpful reminders.
@@ -28,7 +28,7 @@ RevenueCat does not collect any personally identifiable information from users. 
 
 For more details, you can view [RevenueCat’s privacy policy](https://www.revenuecat.com/privacy/).
 
-## Українська
+## <a name="ukrainian"></a>Українська
 Застосунок Stay KIND поважає вашу конфіденційність.
 
 Наш застосунок не збирає, не зберігає та не передає жодної особистої інформації. Єдиний дозвіл, який ми запитуємо, — це надсилання сповіщень, які використовуються виключно для надання корисних нагадувань.
@@ -45,7 +45,7 @@ RevenueCat не збирає особисту інформацію корист�
 
 Більше інформації: [Політика конфіденційності RevenueCat](https://www.revenuecat.com/privacy/)
 
-## Polski
+## <a name="polish"></a>Polski
 Aplikacja Stay KIND szanuje Twoją prywatność.
 
 Nasza aplikacja nie gromadzi, nie przechowuje ani nie udostępnia żadnych danych osobowych. Jedyne uprawnienie, o które prosimy, to możliwość wysyłania powiadomień, które służą wyłącznie do przekazywania przydatnych przypomnień.
@@ -62,7 +62,7 @@ RevenueCat nie gromadzi danych osobowych użytkowników. Dane subskrypcyjne są 
 
 Więcej informacji: [Polityka prywatności RevenueCat](https://www.revenuecat.com/privacy/)
 
-## Française
+## <a name="french"></a>Française
 L’application Stay KIND respecte votre vie privée.
 
 Notre application ne collecte, ne stocke ni ne partage aucune information personnelle. La seule autorisation que nous demandons est l'envoi de notifications, utilisées uniquement pour vous fournir des rappels utiles.
@@ -79,7 +79,7 @@ RevenueCat ne collecte aucune information personnelle identifiable sur les utili
 
 Pour plus d’informations veuillez consulter [La politique de confidentialité de RevenueCat](https://www.revenuecat.com/privacy/)
 
-## Deutsche
+## <a name="german"></a>Deutsche
 Die Stay KIND App respektiert Ihre Privatsphäre.
 
 Unsere App sammelt, speichert oder teilt keine persönlichen Informationen. Die einzige Berechtigung, die wir anfordern, ist das Senden von Benachrichtigungen, die ausschließlich dazu dienen, Ihnen hilfreiche Erinnerungen bereitzustellen.
@@ -96,7 +96,7 @@ RevenueCat erfasst keine personenbezogenen Daten von Nutzern. Abonnementdaten we
 
 Weitere Informationen finden Sie in [der Datenschutzrichtlinie von RevenueCat](https://www.revenuecat.com/privacy/)
 
-## Русский
+## <a name="russian"></a>Русский
 Приложение Stay KIND уважает вашу конфиденциальность.
 
 Наше приложение не собирает, не хранит и не передаёт личную информацию. Единственное разрешение, которое мы запрашиваем, — это отправка уведомлений, используемых исключительно для полезных напоминаний.
