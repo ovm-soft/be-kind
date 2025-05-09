@@ -14,8 +14,8 @@ permalink: /support/
 
 ## <a name="english"></a>English
 
-<p><strong>Email:</strong> <a href="mailto:com.ovm.soft@gmail.com">com.ovm.soft@gmail.com</a></p>
-<p><strong>Address:</strong><br>
+**Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)  
+**Address:**
 ![](/be-kind/assets/a-s.png){ width=170 }
 
 ## <a name="ukrainian"></a>Українська
