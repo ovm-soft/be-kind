@@ -4,6 +4,13 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
+- [English](#english)
+- [Українська](#українська)
+- [Polski](#polski)
+- [Française](#française)
+- [Deutsche](#deutsche)
+- [Русский](#русский)
+
 ## English
 Be KIND app respects your privacy.
 
