@@ -16,7 +16,7 @@ permalink: /support/
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)  
 **Address:**
-![](/be-kind/assets/a-s.png){ width=170 }
+![](/be-kind/assets/a-s.png)
 
 ## <a name="ukrainian"></a>Українська
 
