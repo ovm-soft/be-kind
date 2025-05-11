@@ -106,7 +106,9 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 #### Android
 
-<img src="/be-kind/assets/google-play-badge-en.png" width="140"/> (SOON)
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.ovm.bekind.subscription">
+ <img src="/be-kind/assets/google-play-badge-en.png" width="140"/>
+</a>
 
 <a href="/be-kind/screenshots/en/paid/01.png">
   <img src="/be-kind/screenshots/en/paid/01.png" width="100" />
@@ -226,7 +228,9 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 #### Android
 
-<img src="/be-kind/assets/google-play-badge-ua.png" width="120"/> (НЕЗАБАРОМ)
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.ovm.bekind.subscription">
+ <img src="/be-kind/assets/google-play-badge-ua.png" width="120"/>
+</a>
 
 <a href="/be-kind/screenshots/uk/paid/01.png">
   <img src="/be-kind/screenshots/uk/paid/01.png" width="100" />
@@ -346,7 +350,9 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 #### Android
 
-<img src="/be-kind/assets/google-play-badge-pl.png" width="120"/> (WKRÓTCE)
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.ovm.bekind.subscription">
+ <img src="/be-kind/assets/google-play-badge-pl.png" width="120"/>
+</a>
 
 <a href="/be-kind/screenshots/pl/paid/01.png">
   <img src="/be-kind/screenshots/pl/paid/01.png" width="100" />
@@ -466,7 +472,9 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 #### Android
 
-<img src="/be-kind/assets/google-play-badge-fr.png" width="120"/> (BIENTÔT)
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.ovm.bekind.subscription">
+ <img src="/be-kind/assets/google-play-badge-fr.png" width="120"/>
+</a>
 
 <a href="/be-kind/screenshots/fr/paid/01.png">
   <img src="/be-kind/screenshots/fr/paid/01.png" width="100" />
@@ -586,7 +594,9 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 #### Android
 
-<img src="/be-kind/assets/google-play-badge-de.png" width="120"/> (BALD)
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.ovm.bekind.subscription">
+ <img src="/be-kind/assets/google-play-badge-de.png" width="120"/>
+</a>
 
 <a href="/be-kind/screenshots/de/paid/01.png">
   <img src="/be-kind/screenshots/de/paid/01.png" width="100" />
@@ -706,7 +716,9 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 #### Android
 
-<img src="/be-kind/assets/google-play-badge-ru.png" width="120"/> (СКОРО)
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.ovm.bekind.subscription">
+ <img src="/be-kind/assets/google-play-badge-ru.png" width="120"/>
+</a>
 
 <a href="/be-kind/screenshots/ru/paid/01.png">
   <img src="/be-kind/screenshots/ru/paid/01.png" width="100" />
