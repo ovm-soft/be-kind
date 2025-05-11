@@ -1,5 +1,5 @@
 ---
-title: "PAID Android version: Chart navigation improvement"
+title: "PAID Android version: chart navigation improvement"
 date: "2025-05-11"
 ---
 
