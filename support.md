@@ -16,46 +16,46 @@ permalink: /support/
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-**Address:**
+[comment]:**Address:**
 
-<img src="/be-kind/assets/a-s.png" width="170" />
+[comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="ukrainian"></a>Українська
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-**Адреса:**
+[comment]:**Адреса:**
 
-<img src="/be-kind/assets/a-s.png" width="170" />
+[comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="polish"></a>Polski
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-**Adres:**
+[comment]:**Adres:**
 
-<img src="/be-kind/assets/a-s.png" width="170" />
+[comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="french"></a>Française
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-**Adresse:**
+[comment]:**Adresse:**
 
-<img src="/be-kind/assets/a-s.png" width="170" />
+[comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="german"></a>Deutsche
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-**Adresse:**
+[comment]:**Adresse:**
 
-<img src="/be-kind/assets/a-s.png" width="170" />
+[comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="russian"></a>Русский
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-**Адрес:**
+[comment]:**Адрес:**
 
-<img src="/be-kind/assets/a-s.png" width="170" />
+[comment]:<img src="/be-kind/assets/a-s.png" width="170" />
