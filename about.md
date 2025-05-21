@@ -53,21 +53,21 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 <img src="/be-kind/assets/google-play-badge-en.png" width="140"/>
 </a>
 
-<a href="/be-kind/screenshots/en/free/01.png">
-  <img src="/be-kind/screenshots/en/free/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/free/02.png">
-  <img src="/be-kind/screenshots/en/free/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/free/03.png">
-  <img src="/be-kind/screenshots/en/free/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/free/04.png">
-  <img src="/be-kind/screenshots/en/free/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/free/05.png">
-  <img src="/be-kind/screenshots/en/free/05.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/en/free/01.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/free/02.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/free/03.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/free/04.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/free/05.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/05.png" width="100" />
+[comment]:</a>
 
 ### PAID
 
@@ -110,30 +110,30 @@ Includes soft, occasional reminders to help you stay on track—without pressure
  <img src="/be-kind/assets/google-play-badge-en.png" width="140"/>
 </a>
 
-<a href="/be-kind/screenshots/en/paid/01.png">
-  <img src="/be-kind/screenshots/en/paid/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/02.png">
-  <img src="/be-kind/screenshots/en/paid/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/03.png">
-  <img src="/be-kind/screenshots/en/paid/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/04.png">
-  <img src="/be-kind/screenshots/en/paid/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/05.png">
-  <img src="/be-kind/screenshots/en/paid/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/06.png">
-  <img src="/be-kind/screenshots/en/paid/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/07.png">
-  <img src="/be-kind/screenshots/en/paid/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/08.png">
-  <img src="/be-kind/screenshots/en/paid/08.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/01.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/02.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/03.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/04.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/05.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/06.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/07.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/08.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/08.png" width="100" />
+[comment]:</a>
 
 ## Українська
 
@@ -175,21 +175,21 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 <img src="/be-kind/assets/google-play-badge-ua.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/uk/free/01.png">
-  <img src="/be-kind/screenshots/uk/free/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/free/02.png">
-  <img src="/be-kind/screenshots/uk/free/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/free/03.png">
-  <img src="/be-kind/screenshots/uk/free/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/free/04.png">
-  <img src="/be-kind/screenshots/uk/free/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/free/05.png">
-  <img src="/be-kind/screenshots/uk/free/05.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/01.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/02.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/03.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/04.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/05.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/05.png" width="100" />
+[comment]:</a>
 
 ### ПЛАТНА
 
@@ -232,30 +232,30 @@ Includes soft, occasional reminders to help you stay on track—without pressure
  <img src="/be-kind/assets/google-play-badge-ua.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/uk/paid/01.png">
-  <img src="/be-kind/screenshots/uk/paid/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/02.png">
-  <img src="/be-kind/screenshots/uk/paid/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/03.png">
-  <img src="/be-kind/screenshots/uk/paid/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/04.png">
-  <img src="/be-kind/screenshots/uk/paid/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/05.png">
-  <img src="/be-kind/screenshots/uk/paid/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/06.png">
-  <img src="/be-kind/screenshots/uk/paid/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/07.png">
-  <img src="/be-kind/screenshots/uk/paid/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/08.png">
-  <img src="/be-kind/screenshots/uk/paid/08.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/01.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/02.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/03.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/04.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/05.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/06.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/07.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/08.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/08.png" width="100" />
+[comment]:</a>
 
 ## Polski
 
@@ -297,21 +297,21 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 <img src="/be-kind/assets/google-play-badge-pl.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/pl/free/01.png">
-  <img src="/be-kind/screenshots/pl/free/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/free/02.png">
-  <img src="/be-kind/screenshots/pl/free/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/free/03.png">
-  <img src="/be-kind/screenshots/pl/free/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/free/04.png">
-  <img src="/be-kind/screenshots/pl/free/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/free/05.png">
-  <img src="/be-kind/screenshots/pl/free/05.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/01.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/02.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/03.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/04.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/05.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/05.png" width="100" />
+[comment]:</a>
 
 ### PŁATNA
 
@@ -354,30 +354,30 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
  <img src="/be-kind/assets/google-play-badge-pl.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/pl/paid/01.png">
-  <img src="/be-kind/screenshots/pl/paid/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/02.png">
-  <img src="/be-kind/screenshots/pl/paid/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/03.png">
-  <img src="/be-kind/screenshots/pl/paid/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/04.png">
-  <img src="/be-kind/screenshots/pl/paid/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/05.png">
-  <img src="/be-kind/screenshots/pl/paid/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/06.png">
-  <img src="/be-kind/screenshots/pl/paid/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/07.png">
-  <img src="/be-kind/screenshots/pl/paid/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/08.png">
-  <img src="/be-kind/screenshots/pl/paid/08.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/01.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/02.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/03.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/04.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/05.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/06.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/07.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/08.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/08.png" width="100" />
+[comment]:</a>
 
 ## Française
 
@@ -419,21 +419,21 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 <img src="/be-kind/assets/google-play-badge-fr.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/fr/free/01.png">
-  <img src="/be-kind/screenshots/fr/free/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/free/02.png">
-  <img src="/be-kind/screenshots/fr/free/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/free/03.png">
-  <img src="/be-kind/screenshots/fr/free/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/free/04.png">
-  <img src="/be-kind/screenshots/fr/free/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/free/05.png">
-  <img src="/be-kind/screenshots/fr/free/05.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/01.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/02.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/03.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/04.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/05.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/05.png" width="100" />
+[comment]:</a>
 
 ### PAYANTE
 
@@ -476,30 +476,30 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
  <img src="/be-kind/assets/google-play-badge-fr.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/fr/paid/01.png">
-  <img src="/be-kind/screenshots/fr/paid/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/02.png">
-  <img src="/be-kind/screenshots/fr/paid/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/03.png">
-  <img src="/be-kind/screenshots/fr/paid/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/04.png">
-  <img src="/be-kind/screenshots/fr/paid/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/05.png">
-  <img src="/be-kind/screenshots/fr/paid/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/06.png">
-  <img src="/be-kind/screenshots/fr/paid/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/07.png">
-  <img src="/be-kind/screenshots/fr/paid/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/08.png">
-  <img src="/be-kind/screenshots/fr/paid/08.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/01.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/02.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/03.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/04.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/05.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/06.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/07.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/08.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/08.png" width="100" />
+[comment]:</a>
 
 ## Deutsche
 
@@ -541,21 +541,21 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 <img src="/be-kind/assets/google-play-badge-de.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/de/free/01.png">
-  <img src="/be-kind/screenshots/de/free/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/free/02.png">
-  <img src="/be-kind/screenshots/de/free/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/free/03.png">
-  <img src="/be-kind/screenshots/de/free/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/free/04.png">
-  <img src="/be-kind/screenshots/de/free/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/free/05.png">
-  <img src="/be-kind/screenshots/de/free/05.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/de/free/01.png">
+[comment]:  <img src="/be-kind/screenshots/de/free/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/free/02.png">
+[comment]:  <img src="/be-kind/screenshots/de/free/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/free/03.png">
+[comment]:  <img src="/be-kind/screenshots/de/free/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/free/04.png">
+[comment]:  <img src="/be-kind/screenshots/de/free/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/free/05.png">
+[comment]:  <img src="/be-kind/screenshots/de/free/05.png" width="100" />
+[comment]:</a>
 
 ### KOSTENPFLICHTIGE
 
@@ -598,30 +598,30 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
  <img src="/be-kind/assets/google-play-badge-de.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/de/paid/01.png">
-  <img src="/be-kind/screenshots/de/paid/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/02.png">
-  <img src="/be-kind/screenshots/de/paid/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/03.png">
-  <img src="/be-kind/screenshots/de/paid/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/04.png">
-  <img src="/be-kind/screenshots/de/paid/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/05.png">
-  <img src="/be-kind/screenshots/de/paid/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/06.png">
-  <img src="/be-kind/screenshots/de/paid/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/07.png">
-  <img src="/be-kind/screenshots/de/paid/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/08.png">
-  <img src="/be-kind/screenshots/de/paid/08.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/01.png">
+[comment]:  <img src="/be-kind/screenshots/de/paid/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/02.png">
+[comment]:  <img src="/be-kind/screenshots/de/paid/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/03.png">
+[comment]:  <img src="/be-kind/screenshots/de/paid/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/04.png">
+[comment]:  <img src="/be-kind/screenshots/de/paid/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/05.png">
+[comment]:  <img src="/be-kind/screenshots/de/paid/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/06.png">
+[comment]:  <img src="/be-kind/screenshots/de/paid/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/07.png">
+[comment]:  <img src="/be-kind/screenshots/de/paid/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/08.png">
+[comment]:  <img src="/be-kind/screenshots/de/paid/08.png" width="100" />
+[comment]:</a>
 
 ## Русский
 
@@ -663,21 +663,21 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 <img src="/be-kind/assets/google-play-badge-ru.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/ru/free/01.png">
-  <img src="/be-kind/screenshots/ru/free/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/free/02.png">
-  <img src="/be-kind/screenshots/ru/free/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/free/03.png">
-  <img src="/be-kind/screenshots/ru/free/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/free/04.png">
-  <img src="/be-kind/screenshots/ru/free/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/free/05.png">
-  <img src="/be-kind/screenshots/ru/free/05.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/01.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/02.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/03.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/04.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/05.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/05.png" width="100" />
+[comment]:</a>
 
 ### ПЛАТНАЯ
 
@@ -720,27 +720,28 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
  <img src="/be-kind/assets/google-play-badge-ru.png" width="120"/>
 </a>
 
-<a href="/be-kind/screenshots/ru/paid/01.png">
-  <img src="/be-kind/screenshots/ru/paid/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/02.png">
-  <img src="/be-kind/screenshots/ru/paid/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/03.png">
-  <img src="/be-kind/screenshots/ru/paid/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/04.png">
-  <img src="/be-kind/screenshots/ru/paid/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/05.png">
-  <img src="/be-kind/screenshots/ru/paid/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/06.png">
-  <img src="/be-kind/screenshots/ru/paid/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/07.png">
-  <img src="/be-kind/screenshots/ru/paid/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/08.png">
-  <img src="/be-kind/screenshots/ru/paid/08.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/01.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/02.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/03.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/04.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/05.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/06.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/07.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/08.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/08.png" width="100" />
+[comment]:</a>
+
