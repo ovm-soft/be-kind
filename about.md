@@ -23,28 +23,28 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 ### FREE
 
-[comment]:#### iOS
+#### iOS
 
-[comment]:<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (SOON)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (SOON)
 
-[comment]:<a href="/be-kind/screenshots/en/free/ios/01.png">
-[comment]:   <img src="/be-kind/screenshots/en/free/ios/01.png" width="100" />
-[comment]:</a>
-[comment]:<a href="/be-kind/screenshots/en/free/ios/02.png">
-[comment]:  <img src="/be-kind/screenshots/en/free/ios/02.png" width="100" />
-[comment]:</a>
-[comment]:<a href="/be-kind/screenshots/en/free/ios/03.png">
-[comment]:  <img src="/be-kind/screenshots/en/free/ios/03.png" width="100" />
-[comment]:</a>
-[comment]:<a href="/be-kind/screenshots/en/free/ios/04.png">
-[comment]:  <img src="/be-kind/screenshots/en/free/ios/04.png" width="100" />
-[comment]:</a>
-[comment]:<a href="/be-kind/screenshots/en/free/ios/05.png">
-[comment]:  <img src="/be-kind/screenshots/en/free/ios/05.png" width="100" />
-[comment]:</a>
-[comment]:<a href="/be-kind/screenshots/en/free/ios/06.png">
-[comment]:  <img src="/be-kind/screenshots/en/free/ios/06.png" width="100" />
-[comment]:</a>
+<a href="/be-kind/screenshots/en/free/ios/01.png">
+   <img src="/be-kind/screenshots/en/free/ios/01.png" width="100" />
+</a>
+<a href="/be-kind/screenshots/en/free/ios/02.png">
+  <img src="/be-kind/screenshots/en/free/ios/02.png" width="100" />
+</a>
+<a href="/be-kind/screenshots/en/free/ios/03.png">
+  <img src="/be-kind/screenshots/en/free/ios/03.png" width="100" />
+</a>
+<a href="/be-kind/screenshots/en/free/ios/04.png">
+  <img src="/be-kind/screenshots/en/free/ios/04.png" width="100" />
+</a>
+<a href="/be-kind/screenshots/en/free/ios/05.png">
+  <img src="/be-kind/screenshots/en/free/ios/05.png" width="100" />
+</a>
+<a href="/be-kind/screenshots/en/free/ios/06.png">
+  <img src="/be-kind/screenshots/en/free/ios/06.png" width="100" />
+</a>
 
 
 #### Android
