@@ -27,24 +27,24 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 <img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (NEVER - REJECTED by Apple - will be removed from site soon)
 
-<a href="/be-kind/screenshots/en/free/ios/01.png">
-   <img src="/be-kind/screenshots/en/free/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/free/ios/02.png">
-  <img src="/be-kind/screenshots/en/free/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/free/ios/03.png">
-  <img src="/be-kind/screenshots/en/free/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/free/ios/04.png">
-  <img src="/be-kind/screenshots/en/free/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/free/ios/05.png">
-  <img src="/be-kind/screenshots/en/free/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/free/ios/06.png">
-  <img src="/be-kind/screenshots/en/free/ios/06.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/en/free/ios/01.png">
+[comment]:   <img src="/be-kind/screenshots/en/free/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/free/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/free/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/free/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/free/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/free/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/en/free/ios/06.png" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -75,33 +75,33 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 <img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (NEVER - REJECTED by Apple - will be removed from site soon)
 
-<a href="/be-kind/screenshots/en/paid/ios/01.png">
-  <img src="/be-kind/screenshots/en/paid/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/ios/02.png">
-  <img src="/be-kind/screenshots/en/paid/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/ios/03.png">
-  <img src="/be-kind/screenshots/en/paid/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/ios/04.png">
-  <img src="/be-kind/screenshots/en/paid/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/ios/05.png">
-  <img src="/be-kind/screenshots/en/paid/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/ios/06.png">
-  <img src="/be-kind/screenshots/en/paid/ios/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/ios/07.png">
-  <img src="/be-kind/screenshots/en/paid/ios/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/ios/08.png">
-  <img src="/be-kind/screenshots/en/paid/ios/08.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/en/paid/ios/09.png">
-  <img src="/be-kind/screenshots/en/paid/ios/09.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/ios/01.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/ios/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/ios/07.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/ios/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/ios/08.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/ios/08.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/en/paid/ios/09.png">
+[comment]:  <img src="/be-kind/screenshots/en/paid/ios/09.png" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -149,24 +149,24 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НІКОЛИ – ВІДХИЛЕНО Apple – незабаром буде видалено з сайту)
 
-<a href="/be-kind/screenshots/uk/free/ios/01.png">
-  <img src="/be-kind/screenshots/uk/free/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/free/ios/02.png">
-  <img src="/be-kind/screenshots/uk/free/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/free/ios/03.png">
-  <img src="/be-kind/screenshots/uk/free/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/free/ios/04.png">
-  <img src="/be-kind/screenshots/uk/free/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/free/ios/05.png">
-  <img src="/be-kind/screenshots/uk/free/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/free/ios/06.png">
-  <img src="/be-kind/screenshots/uk/free/ios/06.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/ios/01.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/free/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/uk/free/ios/06.png" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -197,33 +197,33 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НІКОЛИ – ВІДХИЛЕНО Apple – незабаром буде видалено з сайту)
 
-<a href="/be-kind/screenshots/uk/paid/ios/01.png">
-  <img src="/be-kind/screenshots/uk/paid/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/ios/02.png">
-  <img src="/be-kind/screenshots/uk/paid/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/ios/03.png">
-  <img src="/be-kind/screenshots/uk/paid/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/ios/04.png">
-  <img src="/be-kind/screenshots/uk/paid/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/ios/05.png">
-  <img src="/be-kind/screenshots/uk/paid/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/ios/06.png">
-  <img src="/be-kind/screenshots/uk/paid/ios/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/ios/07.png">
-  <img src="/be-kind/screenshots/uk/paid/ios/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/ios/08.png">
-  <img src="/be-kind/screenshots/uk/paid/ios/08.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/uk/paid/ios/09.png">
-  <img src="/be-kind/screenshots/uk/paid/ios/09.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/ios/01.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/ios/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/ios/07.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/ios/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/ios/08.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/ios/08.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/uk/paid/ios/09.png">
+[comment]:  <img src="/be-kind/screenshots/uk/paid/ios/09.png" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -271,24 +271,24 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (NIGDY – ODRZUCONE przez Apple – wkrótce zostanie usunięte ze strony)
 
-<a href="/be-kind/screenshots/pl/free/ios/01.png">
-  <img src="/be-kind/screenshots/pl/free/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/free/ios/02.png">
-  <img src="/be-kind/screenshots/pl/free/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/free/ios/03.png">
-  <img src="/be-kind/screenshots/pl/free/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/free/ios/04.png">
-  <img src="/be-kind/screenshots/pl/free/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/free/ios/05.png">
-  <img src="/be-kind/screenshots/pl/free/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/free/ios/06.png">
-  <img src="/be-kind/screenshots/pl/free/ios/06.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/ios/01.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/free/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/pl/free/ios/06.png" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -319,33 +319,33 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (NIGDY – ODRZUCONE przez Apple – wkrótce zostanie usunięte ze strony)
 
-<a href="/be-kind/screenshots/pl/paid/ios/01.png">
-  <img src="/be-kind/screenshots/pl/paid/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/ios/02.png">
-  <img src="/be-kind/screenshots/pl/paid/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/ios/03.png">
-  <img src="/be-kind/screenshots/pl/paid/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/ios/04.png">
-  <img src="/be-kind/screenshots/pl/paid/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/ios/05.png">
-  <img src="/be-kind/screenshots/pl/paid/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/ios/06.png">
-  <img src="/be-kind/screenshots/pl/paid/ios/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/ios/07.png">
-  <img src="/be-kind/screenshots/pl/paid/ios/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/ios/08.png">
-  <img src="/be-kind/screenshots/pl/paid/ios/08.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/pl/paid/ios/09.png">
-  <img src="/be-kind/screenshots/pl/paid/ios/09.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/ios/01.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/ios/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/ios/07.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/ios/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/ios/08.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/ios/08.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/pl/paid/ios/09.png">
+[comment]:  <img src="/be-kind/screenshots/pl/paid/ios/09.png" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -393,24 +393,24 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (JAMAIS – REFUSÉ par Apple – sera bientôt retiré du site)
 
-<a href="/be-kind/screenshots/fr/free/ios/01.png">
-  <img src="/be-kind/screenshots/fr/free/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/free/ios/02.png">
-  <img src="/be-kind/screenshots/fr/free/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/free/ios/03.png">
-  <img src="/be-kind/screenshots/fr/free/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/free/ios/04.png">
-  <img src="/be-kind/screenshots/fr/free/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/free/ios/05.png">
-  <img src="/be-kind/screenshots/fr/free/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/free/ios/06.png">
-  <img src="/be-kind/screenshots/fr/free/ios/06.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/ios/01.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/free/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/fr/free/ios/06.png" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -441,33 +441,33 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (JAMAIS – REFUSÉ par Apple – sera bientôt retiré du site)
 
-<a href="/be-kind/screenshots/fr/paid/ios/01.png">
-  <img src="/be-kind/screenshots/fr/paid/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/ios/02.png">
-  <img src="/be-kind/screenshots/fr/paid/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/ios/03.png">
-  <img src="/be-kind/screenshots/fr/paid/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/ios/04.png">
-  <img src="/be-kind/screenshots/fr/paid/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/ios/05.png">
-  <img src="/be-kind/screenshots/fr/paid/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/ios/06.png">
-  <img src="/be-kind/screenshots/fr/paid/ios/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/ios/07.png">
-  <img src="/be-kind/screenshots/fr/paid/ios/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/ios/08.png">
-  <img src="/be-kind/screenshots/fr/paid/ios/08.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/fr/paid/ios/09.png">
-  <img src="/be-kind/screenshots/fr/paid/ios/09.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/ios/01.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/ios/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/ios/07.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/ios/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/ios/08.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/ios/08.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/fr/paid/ios/09.png">
+[comment]:  <img src="/be-kind/screenshots/fr/paid/ios/09.png" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -515,24 +515,24 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (NIEMALS – von Apple ABGELEHNT – wird bald von der Website entfernt)
 
-<a href="/be-kind/screenshots/de/free/ios/01.jpeg">
-  <img src="/be-kind/screenshots/de/free/ios/01.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/free/ios/02.jpeg">
-  <img src="/be-kind/screenshots/de/free/ios/02.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/free/ios/03.jpeg">
-  <img src="/be-kind/screenshots/de/free/ios/03.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/free/ios/04.jpeg">
-  <img src="/be-kind/screenshots/de/free/ios/04.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/free/ios/05.jpeg">
-  <img src="/be-kind/screenshots/de/free/ios/05.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/free/ios/06.jpeg">
-  <img src="/be-kind/screenshots/de/free/ios/06.jpeg" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/de/free/ios/01.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/free/ios/01.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/free/ios/02.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/free/ios/02.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/free/ios/03.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/free/ios/03.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/free/ios/04.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/free/ios/04.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/free/ios/05.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/free/ios/05.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/free/ios/06.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/free/ios/06.jpeg" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -563,33 +563,33 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (NIEMALS – von Apple ABGELEHNT – wird bald von der Website entfernt)
 
-<a href="/be-kind/screenshots/de/paid/ios/01.jpeg">
-  <img src="/be-kind/screenshots/de/paid/ios/01.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/ios/02.jpeg">
-  <img src="/be-kind/screenshots/de/paid/ios/02.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/ios/03.jpeg">
-  <img src="/be-kind/screenshots/de/paid/ios/03.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/ios/04.jpeg">
-  <img src="/be-kind/screenshots/de/paid/ios/04.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/ios/05.jpeg">
-  <img src="/be-kind/screenshots/de/paid/ios/05.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/ios/06.jpeg">
-  <img src="/be-kind/screenshots/de/paid/ios/06.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/ios/07.png">
-  <img src="/be-kind/screenshots/de/paid/ios/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/ios/08.jpeg">
-  <img src="/be-kind/screenshots/de/paid/ios/08.jpeg" width="100" />
-</a>
-<a href="/be-kind/screenshots/de/paid/ios/09.jpeg">
-  <img src="/be-kind/screenshots/de/paid/ios/09.jpeg" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/ios/01.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/paid/ios/01.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/ios/02.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/paid/ios/02.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/ios/03.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/paid/ios/03.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/ios/04.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/paid/ios/04.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/ios/05.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/paid/ios/05.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/ios/06.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/paid/ios/06.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/ios/07.png">
+[comment]:  <img src="/be-kind/screenshots/de/paid/ios/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/ios/08.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/paid/ios/08.jpeg" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/de/paid/ios/09.jpeg">
+[comment]:  <img src="/be-kind/screenshots/de/paid/ios/09.jpeg" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -637,24 +637,24 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (НИКОГДА – ОТКЛОНЕНО Apple – скоро будет удалено с сайта)
 
-<a href="/be-kind/screenshots/ru/free/ios/01.png">
-  <img src="/be-kind/screenshots/ru/free/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/free/ios/02.png">
-  <img src="/be-kind/screenshots/ru/free/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/free/ios/03.png">
-  <img src="/be-kind/screenshots/ru/free/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/free/ios/04.png">
-  <img src="/be-kind/screenshots/ru/free/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/free/ios/05.png">
-  <img src="/be-kind/screenshots/ru/free/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/free/ios/06.png">
-  <img src="/be-kind/screenshots/ru/free/ios/06.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/ios/01.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/free/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/ru/free/ios/06.png" width="100" />
+[comment]:</a>
 
 
 #### Android
@@ -685,33 +685,33 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (НИКОГДА – ОТКЛОНЕНО Apple – скоро будет удалено с сайта)
 
-<a href="/be-kind/screenshots/ru/paid/ios/01.png">
-  <img src="/be-kind/screenshots/ru/paid/ios/01.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/ios/02.png">
-  <img src="/be-kind/screenshots/ru/paid/ios/02.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/ios/03.png">
-  <img src="/be-kind/screenshots/ru/paid/ios/03.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/ios/04.png">
-  <img src="/be-kind/screenshots/ru/paid/ios/04.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/ios/05.png">
-  <img src="/be-kind/screenshots/ru/paid/ios/05.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/ios/06.png">
-  <img src="/be-kind/screenshots/ru/paid/ios/06.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/ios/07.png">
-  <img src="/be-kind/screenshots/ru/paid/ios/07.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/ios/08.png">
-  <img src="/be-kind/screenshots/ru/paid/ios/08.png" width="100" />
-</a>
-<a href="/be-kind/screenshots/ru/paid/ios/09.png">
-  <img src="/be-kind/screenshots/ru/paid/ios/09.png" width="100" />
-</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/ios/01.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/ios/01.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/ios/02.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/ios/02.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/ios/03.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/ios/03.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/ios/04.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/ios/04.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/ios/05.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/ios/05.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/ios/06.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/ios/06.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/ios/07.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/ios/07.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/ios/08.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/ios/08.png" width="100" />
+[comment]:</a>
+[comment]:<a href="/be-kind/screenshots/ru/paid/ios/09.png">
+[comment]:  <img src="/be-kind/screenshots/ru/paid/ios/09.png" width="100" />
+[comment]:</a>
 
 
 #### Android
