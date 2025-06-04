@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About iOS
+permalink: /about-ios/
 ---
 
 ## [FREE vs PAID](free-vs-paid.md)
