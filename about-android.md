@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Android
+title: About Android version
 permalink: /about-android/
 ---
 
