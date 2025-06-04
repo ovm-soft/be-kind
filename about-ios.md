@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About iOS
+title: About iOS version
 permalink: /about-ios/
 ---
 
