@@ -25,7 +25,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 #### iOS
 
-<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (NEVER - REJECTED by Apple - will be removed from site soon)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/en/free/ios/01.png">
 [comment]:   <img src="/be-kind/screenshots/en/free/ios/01.png" width="100" />
@@ -73,7 +73,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 #### iOS
 
-<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (NEVER - REJECTED by Apple - will be removed from site soon)
+<img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/en/paid/ios/01.png">
 [comment]:  <img src="/be-kind/screenshots/en/paid/ios/01.png" width="100" />
@@ -147,7 +147,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НІКОЛИ – ВІДХИЛЕНО Apple – незабаром буде видалено з сайту)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/uk/free/ios/01.png">
 [comment]:  <img src="/be-kind/screenshots/uk/free/ios/01.png" width="100" />
@@ -195,7 +195,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (НІКОЛИ – ВІДХИЛЕНО Apple – незабаром буде видалено з сайту)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/uk/paid/ios/01.png">
 [comment]:  <img src="/be-kind/screenshots/uk/paid/ios/01.png" width="100" />
@@ -269,7 +269,7 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (NIGDY – ODRZUCONE przez Apple – wkrótce zostanie usunięte ze strony)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/pl/free/ios/01.png">
 [comment]:  <img src="/be-kind/screenshots/pl/free/ios/01.png" width="100" />
@@ -317,7 +317,7 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (NIGDY – ODRZUCONE przez Apple – wkrótce zostanie usunięte ze strony)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/pl/paid/ios/01.png">
 [comment]:  <img src="/be-kind/screenshots/pl/paid/ios/01.png" width="100" />
@@ -391,7 +391,7 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (JAMAIS – REFUSÉ par Apple – sera bientôt retiré du site)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/fr/free/ios/01.png">
 [comment]:  <img src="/be-kind/screenshots/fr/free/ios/01.png" width="100" />
@@ -439,7 +439,7 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (JAMAIS – REFUSÉ par Apple – sera bientôt retiré du site)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/fr/paid/ios/01.png">
 [comment]:  <img src="/be-kind/screenshots/fr/paid/ios/01.png" width="100" />
@@ -513,7 +513,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (NIEMALS – von Apple ABGELEHNT – wird bald von der Website entfernt)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/de/free/ios/01.jpeg">
 [comment]:  <img src="/be-kind/screenshots/de/free/ios/01.jpeg" width="100" />
@@ -561,7 +561,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (NIEMALS – von Apple ABGELEHNT – wird bald von der Website entfernt)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/de/paid/ios/01.jpeg">
 [comment]:  <img src="/be-kind/screenshots/de/paid/ios/01.jpeg" width="100" />
@@ -635,7 +635,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (НИКОГДА – ОТКЛОНЕНО Apple – скоро будет удалено с сайта)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/ru/free/ios/01.png">
 [comment]:  <img src="/be-kind/screenshots/ru/free/ios/01.png" width="100" />
@@ -683,7 +683,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 #### iOS
 
-<img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (НИКОГДА – ОТКЛОНЕНО Apple – скоро будет удалено с сайта)
+<img src="/be-kind/assets/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg"/> (...)
 
 [comment]:<a href="/be-kind/screenshots/ru/paid/ios/01.png">
 [comment]:  <img src="/be-kind/screenshots/ru/paid/ios/01.png" width="100" />
