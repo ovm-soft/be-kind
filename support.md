@@ -16,31 +16,40 @@ permalink: /support/
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-[comment]:**Address:**
-
+**Address:**
+ul. Jerzego Bajana 1
+skrytka nr 7
+54-120
+Wroclaw
 [comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="ukrainian"></a>Українська
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-[comment]:**Адреса:**
-
+**Адреса:**
+ul. Jerzego Bajana 1
+skrytka nr 7
+54-120
+Wroclaw
 [comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="polish"></a>Polski
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-[comment]:**Adres:**
-
+**Adres:**
+ul. Jerzego Bajana 1
+skrytka nr 7
+54-120
+Wroclaw
 [comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="french"></a>Française
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-[comment]:**Adresse:**
+**Adresse:**
 
 [comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
@@ -48,14 +57,20 @@ permalink: /support/
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-[comment]:**Adresse:**
-
+**Adresse:**
+ul. Jerzego Bajana 1
+skrytka nr 7
+54-120
+Wroclaw
 [comment]:<img src="/be-kind/assets/a-s.png" width="170" />
 
 ## <a name="russian"></a>Русский
 
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
-[comment]:**Адрес:**
-
+**Адрес:**
+ul. Jerzego Bajana 1
+skrytka nr 7
+54-120
+Wroclaw
 [comment]:<img src="/be-kind/assets/a-s.png" width="170" />
