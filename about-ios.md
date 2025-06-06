@@ -7,13 +7,13 @@ permalink: /about-ios/
 ## [FREE vs PAID](free-vs-paid.md)
 
 - [English](#english)
-- [Українська](#українська)
-- [Polski](#polski)
-- [Française](#française)
-- [Deutsche](#deutsche)
-- [Русский](#русский)
+- [Українська](#ukrainian)
+- [Polski](#polish)
+- [Française](#french)
+- [Deutsche](#german)
+- [Русский](#russian)
 
-## English
+## <a name="english"></a> English
 
 A simple tool to stay mindful about kindness in daily life.
 
@@ -29,7 +29,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 
 <img style="margin-left: 9px" src="/be-kind/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"/> (...)
 
-## Українська
+## <a name="ukrainian"></a> Українська
 
 Простий інструмент, щоб залишатися свідомим у щоденній доброті.
 
@@ -46,7 +46,7 @@ Includes soft, occasional reminders to help you stay on track—without pressure
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_UA_blk_082124.svg"/> (...)
 
 
-## Polski
+## <a name="polish"></a> Polski
 
 Proste narzędzie pomagające zachować uważność na życzliwość w codziennym życiu.
 
@@ -62,7 +62,7 @@ Zawiera subtelne, okazjonalne przypomnienia, które pomagają pozostać na ście
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_PL_RGB_blk_100317.svg"/> (...)
 
-## Française
+## <a name="french"></a> Française
 
 Un outil simple pour rester attentif à la gentillesse dans la vie quotidienne.
 
@@ -80,7 +80,7 @@ Comprend des rappels doux et occasionnels pour rester sur la voie de la gentille
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_FR_RGB_blk_100517.svg"/> (...)
 
 
-## Deutsche
+## <a name="german"></a> Deutsche
 
 Ein einfaches Tool, um Achtsamkeit für Freundlichkeit im Alltag zu bewahren.
 
@@ -97,7 +97,7 @@ Enthält dezente, gelegentliche Erinnerungen, die helfen, auf dem Weg der Freund
 
 <img src="/be-kind/assets/Download_on_the_App_Store_Badge_DE_RGB_blk_092917.svg"/> (...)
 
-## Русский
+## <a name="russian"></a> Русский
 
 Простой инструмент, чтобы оставаться осознанным в добрых поступках каждый день.
 
