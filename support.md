@@ -17,6 +17,7 @@ permalink: /support/
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
 **Address:**\
+Oleksandr Markushyn\
 ul. Jerzego Bajana 1\
 skrytka nr 7\
 54-120\
@@ -29,6 +30,7 @@ Wroclaw
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
 **Адреса:**\
+Oleksandr Markushyn\
 ul. Jerzego Bajana 1\
 skrytka nr 7\
 54-120\
@@ -41,6 +43,7 @@ Wroclaw
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
 **Adres:**\
+Oleksandr Markushyn\
 ul. Jerzego Bajana 1\
 skrytka nr 7\
 54-120\
@@ -53,6 +56,7 @@ Wroclaw
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
 **Adresse:**\
+Oleksandr Markushyn\
 ul. Jerzego Bajana 1\
 skrytka nr 7\
 54-120\
@@ -65,6 +69,7 @@ Wroclaw
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
 **Adresse:**\
+Oleksandr Markushyn\
 ul. Jerzego Bajana 1\
 skrytka nr 7\
 54-120\
@@ -77,6 +82,7 @@ Wroclaw
 **Email:** [com.ovm.soft@gmail.com](mailto:com.ovm.soft@gmail.com)
 
 **Адрес:**\
+Oleksandr Markushyn\
 ul. Jerzego Bajana 1\
 skrytka nr 7\
 54-120\
